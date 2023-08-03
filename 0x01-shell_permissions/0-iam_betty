@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo chown betty:root 0-iam_betty
+
