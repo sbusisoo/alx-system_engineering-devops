@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'printen' >> 4-global_variables
